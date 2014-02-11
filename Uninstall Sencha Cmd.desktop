@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall Sencha Cmd
+Comment=Uninstall
+Icon=
+Exec=/home/developer/public_html/Sensa_Touch/Sencha/Cmd/4.0.2.67/uninstall
+Terminal=false
+Path=/home/developer/public_html/Sensa_Touch/Sencha/Cmd/4.0.2.67/uninstall
